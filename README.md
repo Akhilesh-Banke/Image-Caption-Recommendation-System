@@ -33,3 +33,10 @@ This makes it ideal for:
 
 ##  Architecture
 
+
+
+## Installation
+
+Clone this repository and install the required dependencies.
+
+https://github.com/Akhilesh-Banke/Image-Caption-Recommendation-System.git
