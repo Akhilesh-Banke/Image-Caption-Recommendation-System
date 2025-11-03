@@ -33,7 +33,9 @@ This makes it ideal for:
 
 ##  Architecture
 
-
+<p align="center">
+  <img src="Architecture.png" alt="Architecture" width="700"/>
+</p>
 
 ## Installation
 
